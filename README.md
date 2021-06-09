@@ -17,6 +17,7 @@ I love what I do and what is possible as a web developer. I can't wait to see ho
 
 ### 📫 Let's connect!
 * [LinkedIn](https://www.linkedin.com/in/natalietnunez/)
+* [Resume](https://github.com/NatalieNunez/NatalieNunez/files/6627082/Natalie_Nunez_Resume.pdf)
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)

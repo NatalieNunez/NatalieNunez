@@ -35,3 +35,11 @@ I love what I do and what is possible as a web developer. I can't wait to see ho
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Github](https://img.shields.io/badge/-GitHub-000?&logo=github)
 ![Slack](https://img.shields.io/badge/-Slack-000?&logo=slack)
+
+### Application
+* [Crackin' Jokes](https://natalienunez.github.io/ajax-project/) - A dynamic HTML, CSS, and JavaScript project for people who want to get and save funny jokes\
+Since you're here, why not pick up a joke to crack at your next Zoom meeting! (Warning: Some jokes may cause cringing)
+<img src="https://user-images.githubusercontent.com/74742148/121431978-f7eb3e80-c92e-11eb-9f85-2b2a3a505469.gif" width="200" height="350" />
+
+* [Our Day](https://our-day-wedding-planner.herokuapp.com/) - A full stack web application created in React and Node.js for people who want to plan their weddings
+<img src="https://user-images.githubusercontent.com/74742148/121434162-c58f1080-c931-11eb-95e7-ecd54b6d857b.gif" />

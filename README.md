@@ -1,9 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World.+I+am+Natalie!;A+software+developer...;who+loves+to+code!&color=c2fffa&font=Quicksand)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NatalieNunez&theme=calm&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieNunez&layout=compact&title_color=49c4b6)](https://github.com/anuraghazra/github-readme-stats)\
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalieNunez&hide=stars,issues,contribs&show_icons=true&title_color=49c4b6&text_color=274a61&icon_color=ffbea6)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NatalieNunez&theme=calm&hide_border=true)](https://git.io/streak-stats)\
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalieNunez&hide=stars,issues,contribs&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieNunez&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)

@@ -1,19 +1,14 @@
-![The Coffee Habit LinkedIn Post Header](https://user-images.githubusercontent.com/74742148/121419291-a63bb780-c920-11eb-8689-676c1da61f4a.png)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NatalieNunez&theme=calm&hide_border=true)](https://git.io/streak-stats)
 
 ## Hello World 👋
 
+### 💬 About Me
+My name is Natalie, and I am a Software web developer. I love coding with JavaScript, React, Node.js and many others but most of all I love to learn! It's such an exciting experience picking up a language or skill I previously knew nothing about and then creating something with it. I hope to continue building on these skills and upgrading every day as a developer and a person.
+
+I love what I do and what is possible as a web developer. I can't wait to see how much more room there is for growth!
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalieNunez&hide=stars,issues,contribs&show_icons=true&title_color=49c4b6&text_color=274a61&icon_color=ffbea6)](https://github.com/anuraghazra/github-readme-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieNunez&layout=compact&title_color=49c4b6)](https://github.com/anuraghazra/github-readme-stats)
-
-### 💬 About Me
-My name is Natalie, and I am a Software web developer. I love coding with JavaScript, React, Node.js and many others but most of all I love to learn! It's such an exciting experience picking up a language or skill I previously knew nothing about and then creating something with it. After 5 years of customer service and child development, I've learned that software development requires a lot of the same skills: Patience, Innovation, Adaptability, Determination, the list goes on! I hope to continue building on these skills and upgrading every day as a developer and a person.
-
-⚡ Fun Fact:\
-As much as I love to learn coding languages (I'm interested in studying TypeScript next), I also really enjoy learning verbal languages!\
-I have taught myself Spanish and Korean.\
-Learning new languages, whether tech or spoken languages, helps me to broaden my understanding, perspective, and way of thinking which is why I love it so much!
-
-I love what I do and what is possible as a web developer. I can't wait to see how much more room there is for growth! 
 
 ### 📫 Let's connect!
 * [LinkedIn](https://www.linkedin.com/in/natalietnunez/)
@@ -37,7 +32,7 @@ I love what I do and what is possible as a web developer. I can't wait to see ho
 ![Github](https://img.shields.io/badge/-GitHub-000?&logo=github)
 ![Slack](https://img.shields.io/badge/-Slack-000?&logo=slack)
 
-### Application
+### Applications
 * [Crackin' Jokes](https://natalienunez.github.io/ajax-project/) - A dynamic HTML, CSS, and JavaScript project for people who want to get and save funny jokes\
 Since you're here, why not pick up a joke to crack at your next Zoom meeting! (Warning: Some jokes may cause cringing)
 <img src="https://user-images.githubusercontent.com/74742148/121431978-f7eb3e80-c92e-11eb-9f85-2b2a3a505469.gif" width="200" height="350" />

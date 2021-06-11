@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World.+I+am+Natalie!;A+software+developer..;who+loves+to+code!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World.+I+am+Natalie!;A+software+developer...;who+loves+to+code!&color=c2fffa&font=Quicksand)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NatalieNunez&theme=calm&hide_border=true)](https://git.io/streak-stats)
 

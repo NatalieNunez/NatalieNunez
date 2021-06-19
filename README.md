@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+I+am+Natalie!+😄;A+software+developer...;who+loves+to+code!;Welcome!&color=c2fffa&font=Quicksand&size=30)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+I+am+Natalie!+😄;A+software+engineer...;who+loves+to+code!;Welcome!&color=c2fffa&font=Quicksand&size=30)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NatalieNunez&theme=calm&hide_border=true)](https://git.io/streak-stats)\
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalieNunez&hide=stars,issues,contribs&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)\

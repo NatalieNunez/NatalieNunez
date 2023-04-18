@@ -24,7 +24,6 @@
 
 ### 📫 Let's connect!
 * [LinkedIn](https://www.linkedin.com/in/natalietnunez/)
-* [Resume](https://github.com/NatalieNunez/NatalieNunez/files/6627082/Natalie_Nunez_Resume.pdf)
 
 ### Applications
 * [Crackin' Jokes](https://natalienunez.github.io/ajax-project/) - A dynamic HTML, CSS, and JavaScript project for people who want to get and save funny jokes\

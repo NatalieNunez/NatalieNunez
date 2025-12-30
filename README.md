@@ -1,9 +1,5 @@
 # Hi there! I am Natalie 😄
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NatalieNunez&theme=calm&hide_border=true)](https://git.io/streak-stats)\
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalieNunez&hide=stars,issues,contribs&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieNunez&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -29,5 +25,3 @@
 * [Crackin' Jokes](https://natalienunez.github.io/ajax-project/) - A dynamic HTML, CSS, and JavaScript project for people who want to get and save funny jokes\
 Since you're here, why not pick up a joke to crack at your next Zoom meeting! (Warning: Some jokes may cause cringing)
 <img src="https://user-images.githubusercontent.com/74742148/121431978-f7eb3e80-c92e-11eb-9f85-2b2a3a505469.gif" width="200" height="350" />
-
-* [Our Day](https://our-day-wedding-planner.herokuapp.com/) - A full stack web application created in React and Node.js for people who want to plan their weddings
